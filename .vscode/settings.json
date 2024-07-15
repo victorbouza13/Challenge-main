@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./Challenge-main/challenge2/scripts"
+    ]
+}
